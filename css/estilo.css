@@ -1,0 +1,13 @@
+h1 {
+    color:red
+}
+
+h2 {
+    color:green;
+}
+
+/* BS estiliza automáticamente los estilos de algunos elementos de estilo. Puedo agregar una etiqueta que se llama "lead" en los "p".*/
+
+body {
+    background-color: bisque
+}
